@@ -2,78 +2,64 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
 </div>  
 
-### <div align="center">안녕하세요! 백엔드 개발자이자 클라우드 엔지니어 신창엽입니다. 👋
+# 👋 Hi, I'm Changyeop Shin
 
-- 백엔드 개발, 클라우드 인프라, DevOps에 열정을 가진 개발자입니다.
-- MSA, CI/CD, 클라우드 인프라 구축 경험을 통해 확장 가능하고 유지보수 가능한 시스템을 설계하고 있습니다.
+I'm a passionate Backend Developer and Cloud Engineer who loves crafting clean, scalable code and exploring new technologies. With a strong foundation in backend and DevOps, I specialize in building robust, maintainable systems. 
 
-</div>  
+- 🔭 Currently building a central token server and distributed authentication system for the ggumtle-renewal project.
 
-- 🔭 현재 ggumtle-renewal 프로젝트에서 중앙 토큰 서버와 분산 인증 시스템을 구축하고 있습니다.
-  
-- 🌱 최근에는 Terraform과 Kubernetes를 활용한 클라우드 인프라 관리에 집중하고 있습니다.
-  
-- 📫 저에게 연락하시려면 schy2504@naver.com으로 메일을 보내주세요.  
+- 🌱 Recently focused on managing cloud infrastructure using Terraform and Kubernetes.
   
 <br/>  
 
-## Changyeop's Skill Set  
-<table><tr><td valign="top" width="33%">
+<details align="center">
+  <summary> 
+    <b> Things about me </b> <i>(click to expand 👇)</i> 
+  </summary>
+  <hr/>
 
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="flex: 1; padding-right: 20px;">
+      <p align="left">
+      <b>⚡ Skills:</b>
+      <br/>
+      <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
+      <br/><br/>
+      <b>🛠️ DevOps & Tools:</b>
+      <br/>
+      <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></span>
+      <br/><br/>
+      <b>📊 Monitoring:</b>
+      <br/>
+      <span><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></span>
+      <span><img src="https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white"/></span>
+      <span><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></span>
+      </p>
+    </div>
+    <div style="flex: 1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=404-not-foundl&show_icons=true&count_private=true&hide_border=true" style="max-width: 100%; height: auto; margin-top: -10px;">
+    </div>
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springboot-icon.svg" alt="Spring Boot" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
+  </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Tools & Monitoring  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prometheus-icon.svg" alt="Prometheus" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bash-icon.svg" alt="Bash" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>
-
-## 애용하는 스택
-* Java, Python, Spring Boot, Docker, Kubernetes, Terraform, MySQL, Redis, Prometheus, Grafana, Jenkins, Git
+  <hr/>
+</details>
 
 <br/>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=404-not-foundl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
 
 ## Connect with me  
 <div align="center">
@@ -83,4 +69,4 @@
 <a href="https://www.linkedin.com/in/phillip-shin-b09458306/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
