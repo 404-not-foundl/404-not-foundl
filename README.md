@@ -60,13 +60,3 @@ I'm a passionate Backend Developer and Cloud Engineer who loves crafting clean, 
 </details>
 
 <br/>
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/404-not-foundl" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.linkedin.com/in/phillip-shin-b09458306/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
