@@ -6,7 +6,7 @@
 
 I'm a passionate Backend Developer and Cloud Engineer who loves crafting clean, scalable code and exploring new technologies. With a strong foundation in backend and DevOps, I specialize in building robust, maintainable systems. 
 
-- 🔭 Currently building a central token server and distributed authentication system for the ggumtle-renewal project.
+- 🔭 Currently building a central token server and distributed authentication system for the MSA ggumtle-renewal project.
 
 - 🌱 Recently focused on managing cloud infrastructure using Terraform and Kubernetes.
   
