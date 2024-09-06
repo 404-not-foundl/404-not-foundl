@@ -56,7 +56,7 @@ I'm a passionate Backend Developer and Cloud Engineer who loves crafting clean, 
       </p>
     </div>
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=404-not-foundl&show_icons=true&count_private=true&hide_border=true" style="max-width: 100%; height: auto; margin-top: -10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=404-not-foundl&show_icons=true&count_private=true&hide_border=true&bg_color=151515&title_color=ffffff&text_color=ffffff&icon_color=79ff97" style="max-width: 100%; height: auto; margin-top: -10px;">
     </div>
 
   </div>
